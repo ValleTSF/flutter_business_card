@@ -30,7 +30,14 @@ dev_dependencies:
 
 # The following section is specific to Flutter.
 flutter:
-
+  fonts:
+    - family: Satisfy
+      fonts: 
+      - asset: assets/fonts/Satisfy-Regular.ttf
+    - family: MontserratAlternates
+      fonts:
+      - asset: assets/fonts/MontserratAlternates-ExtraLight.ttf
+      
   assets:
     - assets/images/
 
